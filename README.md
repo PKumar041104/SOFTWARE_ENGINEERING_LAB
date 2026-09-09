@@ -359,7 +359,7 @@ Book Interview Slot
         ↓
 View Available Slots
 ```
-# 20. Lab 1 Deliverables
+# 13. Lab 1 Deliverables
 
 The following deliverables were completed as part of Lab 1 – Requirements Engineering & UML Use-Case Modelling.
 
@@ -418,7 +418,7 @@ The Alternate Flow describes how the system handles the situation where the sele
 
 ---
 
-# 21. Outcome of Lab 1
+# 14. Outcome of Lab 1
 
 Lab 1 established the initial requirements and behavioural understanding of the **Podcast Guest Scheduling & Outline Builder**.
 
